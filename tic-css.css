@@ -54,7 +54,7 @@ body{
 input{
     padding-left: 20%;
     background-color: beige;
-    box-shadow: 5px 5px 5px black;
+    box-shadow: 0 0 15px rgb(234, 233, 233);
     
 }
 #display{
